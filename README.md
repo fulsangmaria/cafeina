@@ -28,24 +28,25 @@ Tipo/Género:
 
 
 
+
 ## Resumen
 Todos los planetas del universo se encuentran en armonía entre la vigilia y el sueño gracias a su guardiana Cafeína hasta que el Sr. del Sueño decide apoderarse de los planetas poco a poco.
 
 ### Personaje
 
-![](img-nobody.png)
+![image](https://github.com/user-attachments/assets/9546236c-9f10-483d-b00a-c383c662d002)
 
-Nombre: 
+Nombre: Cafeína
 
 
 ### Historia
-
+Cafeína es nacida en la familia de los guardianes del espacio, su misión es mantener en armonía la vigilia y el sueño. Hará uso de todo lo que esté en sus manos y de sus armas de barista para reestablecer el equilibrio en los diferentes planetas del universo que sean afectados por el Sr. del Sueño. Es justiciera y luchadora como sus ancestros cafeínicos. ☕
 
 ### TagLine
-
+"Más intenso que un esperesso"
 
 ### Conflicto 
-
+El Sr. del Sueño esta invadiendo el planeta Fungi y los habitantes estan cayendo en el letargo eterno. Cafeína deberá luchar contra los súbidtos del Sr. del Sueño, las "almohadas malignas", para poder salvar a los habitantes del planeta y reestablecer la armonía. 
 
 ### Productos
 
