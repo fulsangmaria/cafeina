@@ -4,7 +4,7 @@
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
 
-![mondrian](piet_mondrian_tableau_ll.jpg)
+
 
 Autores:  
 <!---
@@ -12,9 +12,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- 🧚‍♀️: Fulsang María
+- 🧚‍♀️: Farah Elejalde
+
 
 
 Proyecto (código): 
@@ -22,14 +22,14 @@ URL (link) del proyecto en Github:
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [x] Comic
 
 
 
 ## Resumen
-
+Todos los planetas del universo se encuentran en armonía entre la vigilia y el sueño gracias a su guardiana Cafeína hasta que el Sr. del Sueño decide apoderarse de los planetas poco a poco.
 
 ### Personaje
 
