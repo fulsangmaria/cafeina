@@ -49,8 +49,9 @@ Nombre:
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
-
+- Personaje: 
+![image](https://github.com/user-attachments/assets/39e3f509-6c28-42a0-a679-68547dd4bfe5)
+https://cafeina.h5p.com/content/1292535668756321327 
 
 - Banner/Teaser:  (enlace) 
 
