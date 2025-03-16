@@ -50,7 +50,7 @@ El Sr. del Sueño esta invadiendo el planeta Fungi y los habitantes estan cayend
 
 ### Productos
 
-- Personaje: 
+- Personaje: https://excalidraw.com/#room=9377d50c28eddf812b54,QEEjVcPWyoSn4VJVG4SHnA 
 ![image](https://github.com/user-attachments/assets/39e3f509-6c28-42a0-a679-68547dd4bfe5)
 https://cafeina.h5p.com/content/1292535668756321327 
 
