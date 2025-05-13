@@ -55,7 +55,7 @@ El Sr. del Sueño esta invadiendo el planeta Fungi y los habitantes estan cayend
 https://cafeina.h5p.com/content/1292535668756321327
 
   https://ugr2.h5p.com/content/1292535033125887727
-- Banner/Teaser:  ([enlace](https://www.figma.com/design/x899s2KarmKJ49B6xvAGAE/Sin-título?node-id=0-1&p=f&t=uuqoBfVEbW4arLnc-0)) 
+- Banner/Teaser:  [enlace](https://www.figma.com/design/x899s2KarmKJ49B6xvAGAE/Sin-título?node-id=0-1&p=f&t=uuqoBfVEbW4arLnc-0) 
 
 
 - Storytelling: (enlace) 
